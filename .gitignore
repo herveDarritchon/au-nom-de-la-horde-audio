@@ -110,3 +110,6 @@ Temporary Items
 
 # Audio assets
 /assets/musics/ambient/
+
+# Jetbrains IDEs
+.idea/
